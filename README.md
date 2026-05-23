@@ -38,7 +38,7 @@ Fields included:
 - DateCreated
 - ResolutionNotes
 
-<img src="screenshots/create_table_query.png" width="700">
+<img src="/create_table_query.png" width="700">
 
 ---
 
@@ -47,25 +47,25 @@ Fields included:
 ### Ticket Table Creation
 Created a structured SQL table to store IT support ticket information.
 
-<img src="screenshots/create_table_query.png" width="700">
+<img src="/create_table_query.png" width="700">
 
 ### Ticket Data Insertion
 Inserted realistic IT support ticket records into the database.
 
-<img src="screenshots/insert_into_tickets_query.png" width="700">
+<img src="/insert_into_tickets_query.png" width="700">
 
 ### Open Ticket Queries
 Queried the database to identify currently open support tickets.
 
-<img src="screenshots/Open_Tickets_Query.png" width="700">
+<img src="/Open_Tickets_Query.png" width="700">
 
 ### Ticket Reporting by Status
 Used SQL aggregation queries to count tickets by support status.
 
-<img src="screenshots/total_tickets_department.png" width="700">
+<img src="/total_tickets_department.png" width="700">
 
 ### Ticket Reporting by Department
 Generated reports showing ticket counts across departments.
 
-<img src="screenshots/count_tickets_department_query.png" width="700">
+<img src="/count_tickets_department_query.png" width="700">
 
